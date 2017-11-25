@@ -1,0 +1,32 @@
+body {
+      font-family: Verdana, sans-serif;
+      text-align: center;
+      background-color: black;
+      color: white;
+}
+
+h1 {
+    display: block;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2 {
+    display: block;
+    font-size: 36px;
+    font-weight: bold;
+  }
+
+p {
+  color: grey;
+  font-size: 21px;
+}
+
+.jump {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+.footer {
+  text-align: right;
+}
